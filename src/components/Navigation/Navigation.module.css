@@ -1,0 +1,14 @@
+.link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 800;
+    color: black;
+    font-style: italic;
+    font-size: larger;
+  }
+  
+  .link :focus,
+  .link:hover {
+    color: rgb(57, 58, 55);
+  }
